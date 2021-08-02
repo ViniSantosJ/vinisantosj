@@ -19,5 +19,5 @@
 
 <a href="https://vinisantosj.github.io/3_Column_Preview_Card_Component/">3 Column Preview Card Component</a><br>
 <a href="https://vinisantosj.github.io/Le-Scone/Le%20Scone/index.html">Le-Scone</a><br>
-<a href="https://vinisantosj.github.io/Bikcraft_Scss/Bikcraft%20com%20Scss/index.html">Bikcraft com Scss</a><br>
+<a href="https://vinisantosj.github.io/Bikcraft_Scss/Bikcraft_com_Scss/index.html">Bikcraft com Scss</a><br>
 <a href="https://vinisantosj.github.io/Flexblog/Flexblog/index.html">Flexblog</a>
